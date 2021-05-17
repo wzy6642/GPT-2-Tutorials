@@ -7,6 +7,9 @@ A: 完全不需要哦，只需要PyTorch版本号1.6.0就可以，CPU也可以�
 Q: 我需要下载checkpoints吗？
 A: 完全不需要，我们的模型是从头开始训练，这样可以帮助大家更好地了解GPT-2完整的运行方式。
 ```
+# Code
+* [Jupyter](https://github.com/wzy6642/GPT-2-Tutorials/blob/main/GPT_2%20Tutorials.ipynb)
+* [Colab](https://colab.research.google.com/drive/12RHUqxUffGz7-qGIGrbLvLkPZmfcl9tQ?usp=sharing)
 # Package
 PyTorch == 1.6.0
 # Reference
