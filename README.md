@@ -20,6 +20,7 @@ A: No need at all. Our model is trained from scratch, which can help everyone be
 - input.txt
 - images
   - Abstract.PNG
+  - ......
 # Code
 * [Jupyter](https://github.com/wzy6642/GPT-2-Tutorials/blob/main/GPT_2%20Tutorials.ipynb)
 * [Colab](https://colab.research.google.com/drive/12RHUqxUffGz7-qGIGrbLvLkPZmfcl9tQ?usp=sharing)
