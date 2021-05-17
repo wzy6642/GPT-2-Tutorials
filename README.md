@@ -9,3 +9,6 @@ A: 完全不需要，我们的模型是从头开始训练，这样可以帮助�
 ```
 # Package
 PyTorch == 1.6.0
+# Reference
+[minGPT](https://github.com/karpathy/minGPT)
+[The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
