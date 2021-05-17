@@ -9,9 +9,9 @@ A: 完全不需要，我们的模型是从头开始训练，这样可以帮助�
 ```
 ```markdown
 Q: what is this?
-A: This is a GPT-2 code(GPT_2 Tutorials.ipynb). Through this code, you can understand the construction method of the GPT model and the process of training and inference. We take the addition operation and text generation as an example to give the running result of GPT-2.
+A: This is a GPT-2 code (GPT_2 Tutorials.ipynb). Through this code, you can understand the construction method of the GPT model and the process of training and inference. We take the addition operation and text generation as an example to give the running result of GPT-2.
 Q: Do I need to configure a complicated operating environment?
-A: No need at all, only PyTorch version 1.6.0 is required, and the CPU can also run. At the same time we give the Colab link in the code(https://colab.research.google.com/drive/12RHUqxUffGz7-qGIGrbLvLkPZmfcl9tQ?usp=sharing), you can use Colab's GPU resources to train models faster.
+A: No need at all, only PyTorch version 1.6.0 is required, and the CPU can also run. At the same time we give the Colab link in the code (https://colab.research.google.com/drive/12RHUqxUffGz7-qGIGrbLvLkPZmfcl9tQ?usp=sharing), you can use Colab's GPU resources to train models faster.
 Q: Do I need to download checkpoints?
 A: No need at all. Our model is trained from scratch, which can help everyone better understand the complete operation of GPT-2.
 ```
