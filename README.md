@@ -15,6 +15,11 @@ A: No need at all, only PyTorch version 1.6.0 is required, and the CPU can also 
 Q: Do I need to download checkpoints?
 A: No need at all. Our model is trained from scratch, which can help everyone better understand the complete operation of GPT-2.
 ```
+# Structure
+- GPT-2 Tutorials.ipynb
+- input.txt
+- images
+  - Abstract.PNG
 # Code
 * [Jupyter](https://github.com/wzy6642/GPT-2-Tutorials/blob/main/GPT_2%20Tutorials.ipynb)
 * [Colab](https://colab.research.google.com/drive/12RHUqxUffGz7-qGIGrbLvLkPZmfcl9tQ?usp=sharing)
